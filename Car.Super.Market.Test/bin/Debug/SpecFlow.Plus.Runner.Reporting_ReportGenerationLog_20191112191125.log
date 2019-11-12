@@ -1,0 +1,10 @@
+﻿2019-11-12T19:11:25.2652143+00:00;Thread#1;Info;Reading test run result from Json file "C:\Users\D4T Solutions\AppData\Local\Temp\tmpEBA8.tmp".
+2019-11-12T19:11:25.2761852+00:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\D4T Solutions\AppData\Local\Temp\tmpEBA8.tmp"
+2019-11-12T19:11:25.2771815+00:00;Thread#1;Info;Deserializing test run result
+2019-11-12T19:11:28.5441502+00:00;Thread#1;Info;Successfully deserialized test run result
+2019-11-12T19:11:28.5451282+00:00;Thread#1;Info;Loading test run result
+2019-11-12T19:11:28.6099657+00:00;Thread#1;Info;Successfully loaded test run result
+2019-11-12T19:11:28.6727825+00:00;Thread#1;Info;creating 1 report(s)
+2019-11-12T19:11:28.6727825+00:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2019-11-12T19:11:31.6093130+00:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

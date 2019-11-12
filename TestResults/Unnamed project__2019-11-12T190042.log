@@ -1,0 +1,77 @@
+﻿2019-11-12T19:00:42.1326407+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-12T19:00:42.1326407+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-11-12T19:00:42.1326407+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\CSharpProject\Car.Super.Market.Test\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-12T19:00:42.2518334+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\CSharpProject\Car.Super.Market.Test\Car.Super.Market.Test\bin\Debug\Car.Super.Market.Test.dll
+2019-11-12T19:00:42.2528311+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\CSharpProject\Car.Super.Market.Test\TestResults" (default)
+2019-11-12T19:00:42.2538291+00:00;VSTestExecutionThread;Info;Profile: 
+2019-11-12T19:00:42.3146679+00:00;VSTestExecutionThread;Info;Log file path: C:\CSharpProject\Car.Super.Market.Test\TestResults\Unnamed project__2019-11-12T190042.log
+2019-11-12T19:00:42.3306226+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-12T19:00:42.3461689+00:00;Thread#13;Info;Checking license
+2019-11-12T19:00:42.3760775+00:00;Thread#13;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)
+2019-11-12T19:00:55.3782123+00:00;Thread#13;Info;Evaluation delay finished.
+2019-11-12T19:00:55.3890952+00:00;Thread#13;Info;License check completed
+2019-11-12T19:00:55.3890952+00:00;Thread#13;Info;starting test run
+2019-11-12T19:00:55.4110341+00:00;Thread#13;Info;Discovering target: Default
+2019-11-12T19:00:55.4110341+00:00;Thread#13;Info;Discovering tests from assembly: C:\CSharpProject\Car.Super.Market.Test\Car.Super.Market.Test\bin\Debug\Car.Super.Market.Test.dll
+2019-11-12T19:00:56.2020016+00:00:Appdomain Disposed
+2019-11-12T19:00:56.2020016+00:00;Thread#13;Info;Discovered tests from assembly: C:\CSharpProject\Car.Super.Market.Test\Car.Super.Market.Test\bin\Debug\Car.Super.Market.Test.dll
+2019-11-12T19:00:56.2029961+00:00:Test Suite Dump
+2019-11-12T19:00:56.2059889+00:00:#0: Unnamed project/ - 
+2019-11-12T19:00:56.2059889+00:00:#1: Default - 
+2019-11-12T19:00:56.2059889+00:00:#2: Car.Super.Market.Test - 
+2019-11-12T19:00:56.2059889+00:00:#3: CustomerCanSearchForCar - 
+2019-11-12T19:00:56.2781427+00:00:#4: Customer can search for any car of their choice, Audi - TestAssembly:Car.Super.Market.Test/Feature:CustomerCanSearchForCar/Scenario:Customer+can+search+for+any+car+of+their+choice%2c+Audi
+2019-11-12T19:00:56.2781427+00:00:End: Test Suite Dump
+2019-11-12T19:00:56.3220254+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-12T19:00:56.3280099+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-11-12T19:00:56.3290096+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-11-12T19:00:56.3419716+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-12T19:00:56.3419716+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-11-12T19:00:56.3419716+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-11-12T19:00:56.3419716+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-11-12T19:00:56.3449639+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-11-12T19:00:56.3459607+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-12T19:00:56.3529429+00:00:Thread #0: creating new test thread executor for Car.Super.Market.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-11-12T19:00:56.3569388+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-12T19:00:56.3579287+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-12T19:00:56.3599282+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-11-12T19:00:56.5137122+00:00:Thread#0: Test #4/0 is started on thread #0
+2019-11-12T19:00:56.8801508+00:00:Thread#0:T:-> Loading plugin C:\CSharpProject\Car.Super.Market.Test\Car.Super.Market.Test\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-11-12T19:00:56.8931202+00:00:Thread#0:T:-> Using default config
+2019-11-12T19:01:08.3354544+00:00:Thread#0:B:Given I navigate to carsupermarket homepage
+2019-11-12T19:01:34.6989447+00:00:Thread#0:T:done: SearchSteps.GivenINavigateToCarsupermarketHomepage() (26.3s)
+2019-11-12T19:01:34.6989447+00:00:Thread#0:B:When I select the car "Audi"
+2019-11-12T19:01:34.7089182+00:00:Thread#0:T:done: SearchSteps.WhenISelectTheCar("Audi") (0.0s)
+2019-11-12T19:01:34.7104492+00:00:Thread#0:B:And I select the corresponding car "A6"
+2019-11-12T19:01:34.7111868+00:00:Thread#0:T:done: SearchSteps.WhenISelectTheCorrespondingCar("A6") (0.0s)
+2019-11-12T19:01:34.7111868+00:00:Thread#0:B:And I click on the Search button
+2019-11-12T19:01:34.7248754+00:00:Thread#0:T:done: SearchSteps.WhenIClickOnTheSearchButton() (0.0s)
+2019-11-12T19:01:34.7258729+00:00:Thread#0:B:Then car "Audi" is displayed
+2019-11-12T19:01:34.7268701+00:00:Thread#0:T:done: SearchSteps.ThenCarIsDisplayed("Audi") (0.0s)
+2019-11-12T19:01:34.7416654+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-12T19:01:34.7416654+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-12T19:01:34.7416654+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-11-12T19:01:34.7416654+00:00:Thread#0:Scheduler: No more tests for thread
+2019-11-12T19:01:40.0167596+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 43.4999769 seconds
+2019-11-12T19:01:40.0436874+00:00:Appdomain Disposed
+2019-11-12T19:01:40.0476906+00:00:Trying to cancel thread
+2019-11-12T19:01:40.0476906+00:00:Thread cancelled
+2019-11-12T19:01:40.0566512+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-11-12T19:01:40.0566512+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-12T19:01:40.0566512+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-11-12T19:01:40.0626414+00:00;Thread#13;Info;test run finished
+2019-11-12T19:01:40.0646309+00:00;Thread#13;Info;publishing test results
+2019-11-12T19:01:40.0806051+00:00;Thread#13;Info;test results published
+2019-11-12T19:01:40.0806051+00:00;Thread#13;Info;generating reports
+2019-11-12T19:01:40.3369031+00:00;Thread#13;Info;Starting external report generation process
+2019-11-12T19:01:43.5605377+00:00;Thread#13;Info;Successfully generated reports.
+2019-11-12T19:01:43.5705116+00:00;Thread#13;Info;Successfully generated reports
+2019-11-12T19:01:43.5884639+00:00:Total: 1
+2019-11-12T19:01:43.5914557+00:00:Succeeded: 1
+2019-11-12T19:01:43.5934512+00:00:Ignored: 0
+2019-11-12T19:01:43.5954468+00:00:Pending: 0
+2019-11-12T19:01:43.5964442+00:00:Skipped: 0
+2019-11-12T19:01:43.5974404+00:00:Failed: 0
+2019-11-12T19:01:43.6183834+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-11-12T19:01:43.6193808+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\CSharpProject\Car.Super.Market.Test\TestResults\Unnamed project__2019-11-12T190042.html'
+========== End of log file ==========
